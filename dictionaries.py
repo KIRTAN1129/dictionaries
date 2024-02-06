@@ -2,7 +2,7 @@
 dog = {}
 
 # Add name, color, breed, legs, age to the dog dictionary
-dog['name'] = 'cooper'
+dog['name'] = 'tom'
 dog['color'] = 'Brown'
 dog['breed'] = 'shitzu'
 dog['legs'] = 4
@@ -11,15 +11,15 @@ print(dog)
 
 # Create a student dictionary
 student = {
-    'first_name': 'manav',
-    'last_name': 'mendapara',
+    'first_name': 'kirtan',
+    'last_name': 'modi',
     'gender': 'Male',
-    'age': 19,
+    'age': 20,
     'marital_status': 'Single',
     'skills': ['Gaming', 'Reading'],
     'country': 'India',
-    'city': 'vadodara',
-    'address': 'alkapuri road'
+    'city': 'mehsana',
+    'address': 'joytinagar society '
 }
 print(student)
 
